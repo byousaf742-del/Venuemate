@@ -20,11 +20,13 @@
 - Flutter & Dart
 - FastAPI & Python
 - MongoDB
+- Firebase
 - Railway (Backend Hosting)
-- Cloudinary (Image Storage)
+
 
 ---
 
 ## 👨‍💻 Developer
 **Bilal Yousaf**
+**Mahaira Talib**
 IISAT — Software Engineering 2022–2026
