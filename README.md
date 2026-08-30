@@ -26,7 +26,7 @@
 
 ---
 
-## 👨‍💻 Developer
+## 👨‍💻 Developers
 **Bilal Yousaf**
 **Mahaira Talib**
 IISAT — Software Engineering 2022–2026
