@@ -5,7 +5,7 @@
 ---
 
 ## 📱 Download App
-[![Download APK](https://img.shields.io/badge/Download-APK-pink)](https://drive.google.com/uc?export=download&id=17m3lpMoqVTleqoKd3yW1qvK1e5CvNylF)
+[![Download APK](https://img.shields.io/badge/Download-APK-pink)](https://github.com/byousaf742-del/venuemate-frontend/releases/download/v1.0/Venuemate.apk)
 
 ---
 
